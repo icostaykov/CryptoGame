@@ -1,0 +1,10 @@
+# IntelliJ
+venv/
+.idea/
+*.iml
+
+# Compiled files
+__pycache__/
+*.pyc
+
+
